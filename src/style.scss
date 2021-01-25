@@ -1,0 +1,23 @@
+
+
+$primary_color: lime;
+$secondary_color: yellow;
+
+$text_center: center;
+
+body{
+  background-color: grey;
+  text-align: $text_center;
+}
+
+h1{
+  color: red;
+}
+
+h2{
+  color: $primary_color;
+}
+
+h3, p{
+  color: $secondary_color;
+}

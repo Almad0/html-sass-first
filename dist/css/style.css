@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: lime;
+}
+
+h3, p {
+  color: yellow;
+}
